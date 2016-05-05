@@ -697,6 +697,8 @@
                     "name": "cache",
                     "path": "/dev/block/platform/soc.0/f9824900.sdhci/by-name/cache"
                 }
+            ]
+        },
         {
             "names": [ "ether" ],
             "manifest_url": "https://multirom-ether.github.io/manifest.json",
